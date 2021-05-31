@@ -478,7 +478,7 @@ $(".my-computer").dblclick(function(e){
                                                 <div class="recent-icon"><img src="https://img.icons8.com/color/48/000000/code-fork--v1.png"/></div>
                                                 <div class="recent-body">
                                                     <h5>Leetcode</h5>
-                                                    <a href="https://leetcode.com/manpreet2000/" target="_blank"><div class="path">https://leetcode.com/manpreet2000/</div>
+                                                    <a href="https://leetcode.com/manpreet2000" target="_blank"><div class="path">https://leetcode.com/manpreet2000/</div>
                                                 </a></div>
                                             </div>
                                             <div class="recent-items">
